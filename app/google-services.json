@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "172607247894",
+    "firebase_url": "https://social-mdia.firebaseio.com",
+    "project_id": "social-mdia",
+    "storage_bucket": "social-mdia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172607247894:android:b4c2c3ea4b1d7141ae8737",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172607247894-6rb4iho31m5q8s6et11o3em2qdnfivp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagram",
+            "certificate_hash": "8194c7aaca5c41a24560ffaec9e986dc44d52626"
+          }
+        },
+        {
+          "client_id": "172607247894-l15bmi3qd903c1om19m4nuq71t8c7pnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0fQeVzkSPEeIGpAm_b8-KR2_tx5gtcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172607247894-l15bmi3qd903c1om19m4nuq71t8c7pnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
